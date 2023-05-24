@@ -2,7 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" width="230">
 <p><em>Web Developer</em></p>
 
-<br />
+📂 Blog | [Velog](https://velog.io/@tedlee-123)
+
 <br /><br /><br /><br /><br />
 <h2> My tech stack 🚀 </h2>
 
