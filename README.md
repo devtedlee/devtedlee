@@ -1,4 +1,4 @@
-<h2> Hi, I'm Neo-Pool</h2>
+<h2> Hi, I'm Ted-Pool</h2>
 <img align='right' src="https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" width="230">
 <p><em>All-Weather Web Developer</em></p>
 
