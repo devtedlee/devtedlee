@@ -16,5 +16,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtedlee&hide=Markdown&custom_title=Ted-Pool's%20Most%20Used%20Languages&langs_count=6&layout=compact&theme=dark&card_width=380"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devtedlee&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
