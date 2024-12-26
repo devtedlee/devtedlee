@@ -1,6 +1,5 @@
 <h2> Hi, I'm Ted-Pool</h2>
 <img align='right' src="https://media.giphy.com/media/kwCLw42hH2cxvIywIi/giphy.gif" width="230">
-<p><em>TDD Web Developer(Tool Driven Development😜)</em></p>
 
 📂 Blog | [hashnode](https://ted-projects.com)
 
