@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ted-Pool</h2>
-<img align='right' src="https://media.giphy.com/media/kwCLw42hH2cxvIywIi/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5qZDB6bGt6d2Z1d3NueG0yODQ1NzJreWZ0NWhid2VvbTN2azJxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AOSwwqVjNZlDO/giphy.gif" width="230">
 
 📂 Blog | [hashnode](https://ted-projects.com)
 
